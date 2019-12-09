@@ -1,3 +1,3 @@
-the first attempt of git
+the first attempt
 add branch!
 and merge!
